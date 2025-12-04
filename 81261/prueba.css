@@ -1,0 +1,12 @@
+div {
+    display: flex;
+    background-color: red;
+    gap: 2rem;
+    padding: 2rem;
+}
+
+div>div {
+    border: 0.2rem solid black;
+    width: 2rem;
+    height: 2rem;
+}
